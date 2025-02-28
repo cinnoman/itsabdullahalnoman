@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm Abdullah!  
 
-## 🏴‍☠️ About Me:  
-💻 A Cybersecurity Enthusiast and Bug Bounty Hunter  
+## whoami:  
+💻 An Information Security Enthusiast and Bug Bounty Hunter  
 
 ## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomansec/)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](your-twitter-url)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](your-youtube-url)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=flat&logo=tryhackme&logoColor=white)](your-tryhackme-url)  
